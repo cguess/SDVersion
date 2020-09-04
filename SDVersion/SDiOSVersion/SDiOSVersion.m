@@ -195,8 +195,8 @@
     } else if(screenHeight == 1136) {
         return Screen4inch;
     } else if(screenHeight == 1334) {
-        return  Screen4Dot7inch;
-    } else if(screenHeight == 2208) {
+        return Screen4Dot7inch;
+    } else if(screenHeight == 1920) {
         return Screen5Dot5inch;
     } else if (screenHeight == 2436) {
         return Screen5Dot8inch;
